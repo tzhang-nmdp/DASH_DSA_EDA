@@ -11,4 +11,5 @@ The 2nd page is the detailed analyses on 4 ways interactions of demographic vari
 The 3rd page is the exploratory analyses of HLA matching characteristics between transplants with and without DSA. 
 ![Page 3](Page3.png)
 
-The 4th page is udner construction for potential transplant outcome analyses regarding DSA status.
+The 4th page is transplant outcome analyses regarding DSA status and other important clinical variables.
+![Page 4](Page4.png)
