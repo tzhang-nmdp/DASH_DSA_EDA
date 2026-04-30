@@ -1,4 +1,4 @@
-# This APP is intend to have a convenient way for H(D)SA explotory data analyses
+# This APP is intend to have a convenient way for HLA-ab(DSA) explotory data analyses
 ## Introduction
 
 
